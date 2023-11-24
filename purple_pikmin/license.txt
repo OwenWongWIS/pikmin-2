@@ -1,0 +1,11 @@
+Model Information:
+* title:	Purple Pikmin
+* source:	https://sketchfab.com/3d-models/purple-pikmin-d64dc53892d74987b2d9d8b6d3e969f9
+* author:	Happy (https://sketchfab.com/singsumyee524)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Purple Pikmin" (https://sketchfab.com/3d-models/purple-pikmin-d64dc53892d74987b2d9d8b6d3e969f9) by Happy (https://sketchfab.com/singsumyee524) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
